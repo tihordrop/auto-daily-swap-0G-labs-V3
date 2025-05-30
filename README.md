@@ -7,7 +7,7 @@
 
 ---
 
-## Claim all faucet  and https://faucet.0g.ai
+## Claim all faucet
 #### - https://test.zer0.exchange/faucet
 #### - https://faucet.0g.ai
 
